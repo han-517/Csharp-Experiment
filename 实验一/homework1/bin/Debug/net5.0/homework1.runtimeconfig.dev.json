@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Wjh\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Wjh\\.nuget\\packages",
+      "D:\\CSS\\vs_tools\\NuGetPackages"
+    ]
+  }
+}

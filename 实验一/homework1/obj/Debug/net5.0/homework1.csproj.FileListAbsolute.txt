@@ -1,0 +1,16 @@
+E:\Other\homework1\bin\Debug\net5.0\homework1.exe
+E:\Other\homework1\bin\Debug\net5.0\homework1.deps.json
+E:\Other\homework1\bin\Debug\net5.0\homework1.runtimeconfig.json
+E:\Other\homework1\bin\Debug\net5.0\homework1.runtimeconfig.dev.json
+E:\Other\homework1\bin\Debug\net5.0\homework1.dll
+E:\Other\homework1\bin\Debug\net5.0\ref\homework1.dll
+E:\Other\homework1\bin\Debug\net5.0\homework1.pdb
+E:\Other\homework1\obj\Debug\net5.0\homework1.csproj.AssemblyReference.cache
+E:\Other\homework1\obj\Debug\net5.0\homework1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Other\homework1\obj\Debug\net5.0\homework1.AssemblyInfoInputs.cache
+E:\Other\homework1\obj\Debug\net5.0\homework1.AssemblyInfo.cs
+E:\Other\homework1\obj\Debug\net5.0\homework1.csproj.CoreCompileInputs.cache
+E:\Other\homework1\obj\Debug\net5.0\homework1.dll
+E:\Other\homework1\obj\Debug\net5.0\ref\homework1.dll
+E:\Other\homework1\obj\Debug\net5.0\homework1.pdb
+E:\Other\homework1\obj\Debug\net5.0\homework1.genruntimeconfig.cache
