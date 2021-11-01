@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PXGHrorB3uw895MJEo/OQcb0nGx/rnVgQYThL3jAOtpYtVgRyuSSoWsY08g3qDR/alA7TaNc5nLEoNGeyKCxjA==",
+  "success": true,
+  "projectFilePath": "F:\\实验三\\Form1028\\Form1028.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Wjh\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}

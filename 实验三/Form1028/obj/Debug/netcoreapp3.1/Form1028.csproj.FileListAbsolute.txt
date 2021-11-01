@@ -1,0 +1,16 @@
+F:\Form1028\bin\Debug\netcoreapp3.1\Form1028.exe
+F:\Form1028\bin\Debug\netcoreapp3.1\Form1028.deps.json
+F:\Form1028\bin\Debug\netcoreapp3.1\Form1028.runtimeconfig.json
+F:\Form1028\bin\Debug\netcoreapp3.1\Form1028.runtimeconfig.dev.json
+F:\Form1028\bin\Debug\netcoreapp3.1\Form1028.dll
+F:\Form1028\bin\Debug\netcoreapp3.1\Form1028.pdb
+F:\Form1028\obj\Debug\netcoreapp3.1\Form1028.Form1.resources
+F:\Form1028\obj\Debug\netcoreapp3.1\Form1028.csproj.GenerateResource.cache
+F:\Form1028\obj\Debug\netcoreapp3.1\Form1028.GeneratedMSBuildEditorConfig.editorconfig
+F:\Form1028\obj\Debug\netcoreapp3.1\Form1028.AssemblyInfoInputs.cache
+F:\Form1028\obj\Debug\netcoreapp3.1\Form1028.AssemblyInfo.cs
+F:\Form1028\obj\Debug\netcoreapp3.1\Form1028.csproj.CoreCompileInputs.cache
+F:\Form1028\obj\Debug\netcoreapp3.1\Form1028.dll
+F:\Form1028\obj\Debug\netcoreapp3.1\Form1028.pdb
+F:\Form1028\obj\Debug\netcoreapp3.1\Form1028.genruntimeconfig.cache
+F:\Form1028\obj\Debug\netcoreapp3.1\Form1028.csproj.AssemblyReference.cache
