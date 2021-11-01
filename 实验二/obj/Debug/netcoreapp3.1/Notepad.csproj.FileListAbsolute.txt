@@ -1,0 +1,17 @@
+F:\Notepad\bin\Debug\netcoreapp3.1\Notepad.exe
+F:\Notepad\bin\Debug\netcoreapp3.1\Notepad.deps.json
+F:\Notepad\bin\Debug\netcoreapp3.1\Notepad.runtimeconfig.json
+F:\Notepad\bin\Debug\netcoreapp3.1\Notepad.runtimeconfig.dev.json
+F:\Notepad\bin\Debug\netcoreapp3.1\Notepad.dll
+F:\Notepad\bin\Debug\netcoreapp3.1\Notepad.pdb
+F:\Notepad\obj\Debug\netcoreapp3.1\Notepad.csproj.AssemblyReference.cache
+F:\Notepad\obj\Debug\netcoreapp3.1\Notepad.Form1.resources
+F:\Notepad\obj\Debug\netcoreapp3.1\Notepad.Properties.Resources.resources
+F:\Notepad\obj\Debug\netcoreapp3.1\Notepad.csproj.GenerateResource.cache
+F:\Notepad\obj\Debug\netcoreapp3.1\Notepad.GeneratedMSBuildEditorConfig.editorconfig
+F:\Notepad\obj\Debug\netcoreapp3.1\Notepad.AssemblyInfoInputs.cache
+F:\Notepad\obj\Debug\netcoreapp3.1\Notepad.AssemblyInfo.cs
+F:\Notepad\obj\Debug\netcoreapp3.1\Notepad.csproj.CoreCompileInputs.cache
+F:\Notepad\obj\Debug\netcoreapp3.1\Notepad.dll
+F:\Notepad\obj\Debug\netcoreapp3.1\Notepad.pdb
+F:\Notepad\obj\Debug\netcoreapp3.1\Notepad.genruntimeconfig.cache
