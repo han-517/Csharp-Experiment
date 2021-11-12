@@ -1,0 +1,8 @@
+F:\C#\text\控件\FolerBowse\FolerBowse\obj\Debug\ResolveAssemblyReference.cache
+F:\C#\text\控件\FolerBowse\FolerBowse\obj\Debug\FolerBowse.Form1.resources
+F:\C#\text\控件\FolerBowse\FolerBowse\obj\Debug\FolerBowse.Properties.Resources.resources
+F:\C#\text\控件\FolerBowse\FolerBowse\obj\Debug\FolerBowse.csproj.GenerateResource.Cache
+F:\C#\text\控件\FolerBowse\FolerBowse\bin\Debug\FolerBowse.exe
+F:\C#\text\控件\FolerBowse\FolerBowse\bin\Debug\FolerBowse.pdb
+F:\C#\text\控件\FolerBowse\FolerBowse\obj\Debug\FolerBowse.exe
+F:\C#\text\控件\FolerBowse\FolerBowse\obj\Debug\FolerBowse.pdb

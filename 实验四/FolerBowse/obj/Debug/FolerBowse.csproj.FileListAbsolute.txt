@@ -1,0 +1,9 @@
+C:\Users\Wjh\Desktop\实验四\FolerBowse\bin\Debug\FolerBowse.exe
+C:\Users\Wjh\Desktop\实验四\FolerBowse\bin\Debug\FolerBowse.pdb
+C:\Users\Wjh\Desktop\实验四\FolerBowse\obj\Debug\FolerBowse.csproj.AssemblyReference.cache
+C:\Users\Wjh\Desktop\实验四\FolerBowse\obj\Debug\FolerBowse.Form1.resources
+C:\Users\Wjh\Desktop\实验四\FolerBowse\obj\Debug\FolerBowse.Properties.Resources.resources
+C:\Users\Wjh\Desktop\实验四\FolerBowse\obj\Debug\FolerBowse.csproj.GenerateResource.cache
+C:\Users\Wjh\Desktop\实验四\FolerBowse\obj\Debug\FolerBowse.csproj.CoreCompileInputs.cache
+C:\Users\Wjh\Desktop\实验四\FolerBowse\obj\Debug\FolerBowse.exe
+C:\Users\Wjh\Desktop\实验四\FolerBowse\obj\Debug\FolerBowse.pdb
